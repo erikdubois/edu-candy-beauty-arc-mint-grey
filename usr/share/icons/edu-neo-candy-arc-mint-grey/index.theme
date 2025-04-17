@@ -1,7 +1,7 @@
 [Icon Theme]
-Name=Edu Candy Beauty Arc Mint Grey
+Name=edu-neo-candy-arc-mint-grey
 Comment=Simple and flat icon theme with long shadow
-Inherits=a-candy-beauty-icon-theme,Sardi,Numix-Circle,Numix,Papirus,Moka,Surfn,breeze,gnome,hicolor
+Inherits=neo-candy-icons,Surfn,Numix-Circle,Numix,Papirus,Moka,Surfn,breeze,gnome,hicolor
 Example=folder
 
 
